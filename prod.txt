@@ -1,17 +1,9 @@
 hello
 hii
 good afternoon
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of 2728273... 5thcomit
+
+
 jyoti
 
 jjjjjjjjjjjjjjjjjjjjjjjj
 jjjjjjjjjjjjjjjjjjjjjj
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> parent of c614063... sec massage
->>>>>>> parent of 2728273... 5thcomit
