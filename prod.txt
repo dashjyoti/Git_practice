@@ -1,6 +1,9 @@
 hello
 hii
 good afternoon
+<<<<<<< HEAD
 jyoti
 jjjjjjjjjjjjjjjjjjjjjjjj
 jjjjjjjjjjjjjjjjjjjjjj
+=======
+>>>>>>> parent of c614063... sec massage
